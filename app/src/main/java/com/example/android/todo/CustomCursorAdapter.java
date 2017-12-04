@@ -1,4 +1,4 @@
-package com.example.android.todolist;
+package com.example.android.todo;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.android.todolist.data.TaskContract;
+import com.example.android.todo.data.TaskContract;
 
 
 /**

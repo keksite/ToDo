@@ -1,4 +1,4 @@
-package com.example.android.todolist.data;
+package com.example.android.todo.data;
 
 import android.net.Uri;
 import android.provider.BaseColumns;

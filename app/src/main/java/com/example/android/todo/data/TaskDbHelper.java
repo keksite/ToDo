@@ -1,10 +1,10 @@
-package com.example.android.todolist.data;
+package com.example.android.todo.data;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.example.android.todolist.data.TaskContract.TaskEntry;
+import com.example.android.todo.data.TaskContract.TaskEntry;
 
 
 public class TaskDbHelper extends SQLiteOpenHelper {

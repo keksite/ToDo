@@ -1,4 +1,4 @@
-package com.example.android.todolist.data;
+package com.example.android.todo.data;
 
 import android.content.ContentProvider;
 import android.content.ContentUris;
@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.net.Uri;
 import android.support.annotation.NonNull;
 
-import static com.example.android.todolist.data.TaskContract.TaskEntry.TABLE_NAME;
+import static com.example.android.todo.data.TaskContract.TaskEntry.TABLE_NAME;
 
 
 // COMPLETED: Verify that TaskContentProvider extends from ContentProvider and implements required methods

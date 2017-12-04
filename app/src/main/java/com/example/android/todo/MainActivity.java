@@ -1,4 +1,4 @@
-package com.example.android.todolist;
+package com.example.android.todo;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -15,7 +15,7 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 import android.util.Log;
 import android.view.View;
 
-import com.example.android.todolist.data.TaskContract;
+import com.example.android.todo.data.TaskContract;
 
 
 public class MainActivity extends AppCompatActivity implements

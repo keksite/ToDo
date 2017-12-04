@@ -1,4 +1,4 @@
-package com.example.android.todolist;
+package com.example.android.todo;
 
 import android.content.ContentValues;
 import android.net.Uri;
@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
-import com.example.android.todolist.data.TaskContract;
+import com.example.android.todo.data.TaskContract;
 
 
 public class AddTaskActivity extends AppCompatActivity {
