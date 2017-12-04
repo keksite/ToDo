@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.1\30d2b12e06347ece26e565b60cb7de12ed14d13b\baseLibrary-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30d2b12e06347ece26e565b60cb7de12ed14d13b">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.1_5f59ed7a73e9a88db481f899097b9db3fdd74f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_8553907f958ef0e010805f1d225acba9ac306d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_67825d30f2501cc114ee9a421713328c59cc1f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_135ce0f345233949f4762f3c89b3090259b385b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha8_070527bc50ecab11c9390bfd6c2568c8a31b913a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_32a3698abeb5b90ef60c575219073f5e496d1660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_2d747e101940f5bcbb973a791985ffd428c37b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha8_58f2b6a544b84f02c83e02af4c607aaf8289f225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_ce8c4ab918932d5c152a68258f860d7aae33f6a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aa0f4aae77259ae0e1fe542b008c9e6fbb93e598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_683b5f9dadc731746afebe534b8cd85c220ee425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_7a995df4ef15a4dd77c5d177a0eb68a3888f2710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_6294cda9972e7ccb82d37c0b4612d475d0bb5059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_afa1775e8d5ed8efee245d8416307a25444bcbda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d369597ab984f4749f085d3a59516c5267bde6b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_65aaae478238236e22133bfe54a9313fe4459942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_22c30c645182a767518fdad40228d40158e1a601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c0031b5b1941538c0648bcc31295bf9aa3806217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c3f5bc6e14a838ff0734c4ffcd1633eed2e4364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_9460877a3eb144aa9403c1daf5740385c15d95f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_6cdb95f3177cd3d7a5880a6e6e9dcf4c15ce7ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\dmitry.barbashin\Desktop\education\ToDoList_final\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_48e80e14351b839232490757cbfd3a13d69ac9b6.jar" />
+    </item>
+
+</items>
